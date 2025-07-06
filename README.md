@@ -21,10 +21,7 @@ The primary data source used in this project is Amazon case study, which contain
 - Excel Dashboard Design
 
 ## Analysis Tasks
-
-Pre-Work
-- Cleaned data in Power Query (add columns like Main Category, High Discount, Price Range Bucket, Potential Revenue, etc.)
-- Loaded cleaned data to the Data Model by checking "Add this data to the Data Model" during import
+The analysis answers the following business questions:
 
 1. What is the average discount percentage by product category?
 
@@ -83,14 +80,43 @@ Pre-Work
 ![Top 5 Products By Combined Score](https://github.com/user-attachments/assets/0e31d6e8-ffb3-4fb2-b1d9-33f3b7875fb1)
 
 
+## Analysis Outcomes
+1. Average Discount % by Product Category
+Categories like Electronics and Fashion tend to have higher average discounts (often between 30–50%). Some categories (e.g., Books or Home Essentials) have lower average discounts (<20%).
+2. Number of Products per Category
+Categories such as Electronics, Fashion, and Home & Kitchen have the highest product count. Niche categories (e.g., Beauty, Toys) have fewer products listed.
+3. Total Number of Reviews per Category
+Electronics and Fashion dominate review volume, indicating higher consumer engagement.
+4. Highest Average Rated Products
+Products with average ratings close to 5.0 are found in Books and Beauty categories.
+5. Average Actual vs Discounted Price by Category
+Fashion shows the largest gap between actual and discounted prices, Books and Groceries show minimal difference.
+6. Products with the Most Reviews
+Flagship products in Electronics and Personal Care dominate review counts (>10,000).
+7. Products with 50%+ Discount
+Around 250+ products have discounts of 50% or more, most common in Fashion, Home Decor, and Accessories.
+8. Distribution of Product Ratings
+Most products are rated between 3.5 and 4.5. Very few fall below 3.0.
+9. Total Potential Revenue by Category
+Electronics generates the highest potential revenue. Books and Toys have lower revenue potential due to lower pricing.
+10. Products per Price Range Bucket
+Distribution: < ₹200: ~180 products, ₹200–₹500: ~600 products, > ₹500: ~685 products.
+11. Correlation: Rating vs Discount
+Weak-to-moderate negative correlation. Higher discounts slightly relate to lower ratings.
+12. Products with Fewer Than 1,000 Reviews
+Over 1,100 products fall into this group.
+13. Categories with the Highest Discounts
+Fashion, Toys, and Home Decor offer the most aggressive discounts.
+14. Top 5 Products (Rating + Review Count Combined)
+High-performing products are in Electronics and Beauty, combining strong ratings and high review counts.
 
 
-
-
-
-
-
-
-
-  
-
+## 💡 Recommendations
+•	1. Targeted Promotions: Focus on categories with high review volume and strong ratings like Electronics and Beauty.
+•	2. Improve Low-Review Products: Bundle or feature the 1,100+ products with <1,000 reviews.
+•	3. Optimize Discounts: Avoid excessive discounts on low-rated products. Improve quality/listing instead.
+•	4. Category-Specific Strategy: Fashion – deals; Books – value bundles; Electronics – support-focused marketing.
+•	5. Product Development Focus: Replicate features of top-rated, high-review products for new launches.
+•	6. Monitor Price Sensitivity: Target the ₹200–₹500 range for optimal mass appeal.
+•	7. Boost Customer Engagement: Use follow-ups or rewards to encourage reviews on underexposed products.
+•	8. Flag Underperformers: Identify and review low-rated, high-discounted products for potential removal or rebranding.
