@@ -80,64 +80,130 @@ The analysis answers the following business questions:
 ![Top 5 Products By Combined Score](https://github.com/user-attachments/assets/0e31d6e8-ffb3-4fb2-b1d9-33f3b7875fb1)
 
 
-## Analysis Outcomes
-1. Average Discount % by Product Category
-Categories like Electronics and Fashion tend to have higher average discounts (often between 30–50%). Some categories (e.g., Books or Home Essentials) have lower average discounts (<20%).
-2. Number of Products per Category
-Categories such as Electronics, Fashion, and Home & Kitchen have the highest product count. Niche categories (e.g., Beauty, Toys) have fewer products listed.
-3. Total Number of Reviews per Category
-Electronics and Fashion dominate review volume, indicating higher consumer engagement.
-4. Highest Average Rated Products
-Products with average ratings close to 5.0 are found in Books and Beauty categories.
-5. Average Actual vs Discounted Price by Category
-Fashion shows the largest gap between actual and discounted prices, Books and Groceries show minimal difference.
-6. Products with the Most Reviews
-Flagship products in Electronics and Personal Care dominate review counts (>10,000).
-7. Products with 50%+ Discount
-Around 250+ products have discounts of 50% or more, most common in Fashion, Home Decor, and Accessories.
-8. Distribution of Product Ratings
-Most products are rated between 3.5 and 4.5. Very few fall below 3.0.
-9. Total Potential Revenue by Category
-Electronics generates the highest potential revenue. Books and Toys have lower revenue potential due to lower pricing.
-10. Products per Price Range Bucket
-Distribution: < ₹200: ~180 products, ₹200–₹500: ~600 products, > ₹500: ~685 products.
-11. Correlation: Rating vs Discount
-Weak-to-moderate negative correlation. Higher discounts slightly relate to lower ratings.
-12. Products with Fewer Than 1,000 Reviews
-Over 1,100 products fall into this group.
-13. Categories with the Highest Discounts
-Fashion, Toys, and Home Decor offer the most aggressive discounts.
-14. Top 5 Products (Rating + Review Count Combined)
-High-performing products are in Electronics and Beauty, combining strong ratings and high review counts.
+## 🔍 ANALYSIS OUTCOME
 
+Key Metrics Summary:
 
-## 💡 Recommendations
-•	1. Targeted Promotions: Focus on categories with high review volume and strong ratings like Electronics and Beauty.
+Total Average Discount: 47%
+
+Product Count: 1,348
+
+Total Reviews: 23,801,431
+
+Products with ≥50% Discount: 660
+
+Potential Revenue: $114 Billion
+
+Products with <1000 Reviews: 307
 
 
 
-•	2. Improve Low-Review Products: Bundle or feature the 1,100+ products with <1,000 reviews.
+
+### Top Performing Products & Categories:
+
+Top-rated products have ratings of 4.7 to 5.0 stars, indicating high customer satisfaction.
+
+Top product by reviews: Baebody Retinol Moisturizer Cream (272,688 reviews).
+
+Categories with highest discounts: Health & Personal Care (49%), Home & Kitchen (47%), Electronics (46%).
+
+
+### Price vs Discount Trends:
+
+Electronics and Personal Care products show the largest gap between actual and discounted prices, suggesting high markdowns.
+
+Most combined revenue comes from JBL Over-Ear Headphones and Amazon Fire Tablets.
+
+
+### Customer Behavior Patterns:
+
+Majority of products fall within $0–$100 price range.
+
+Most common rating is 4 stars, followed by 5 stars and 3 stars, showing generally positive sentiment.
+
+Sharp drop in number of reviews for lower-rated products (<3 stars).
 
 
 
-•	3. Optimize Discounts: Avoid excessive discounts on low-rated products. Improve quality/listing instead.
+
+## 💡 INSIGHTS
+
+1. High Discounts Drive Engagement:
+
+Categories with higher discounts like Health & Personal Care and Home & Kitchen tend to attract more reviews.
+
+High discounts correlate with higher review volumes, suggesting promotional pricing is effective.
 
 
 
-•	4. Category-Specific Strategy: Fashion – deals; Books – value bundles; Electronics – support-focused marketing.
+2. Customer Satisfaction Is Strong:
+
+Most products have high ratings (4–5 stars), which is a strong indicator of quality and customer satisfaction.
+
+Products with more reviews tend to also have higher ratings, indicating successful products are being well-received.
 
 
 
-•	5. Product Development Focus: Replicate features of top-rated, high-review products for new launches.
+3. Revenue Potential is Concentrated:
+
+A few key products contribute a significant portion of revenue—there is a power-law distribution where the top few products drive major sales.
 
 
 
-•	6. Monitor Price Sensitivity: Target the ₹200–₹500 range for optimal mass appeal.
+4. Review Count Disparity:
+
+A significant number of products (307) have fewer than 1,000 reviews, suggesting uneven visibility and customer interaction across the catalog.
 
 
 
-•	7. Boost Customer Engagement: Use follow-ups or rewards to encourage reviews on underexposed products.
+5. Price Range Sweet Spot:
+
+Majority of products lie within the affordable range ($0–$100), making them accessible to a broad customer base.
 
 
 
-•	8. Flag Underperformers: Identify and review low-rated, high-discounted products for potential removal or rebranding.
+
+
+## ✅ RECOMMENDATIONS
+
+1. 📈 Invest in Top Categories:
+
+Focus marketing and inventory on Health & Personal Care, Home & Kitchen, and Electronics, which show high demand and review counts.
+
+
+
+2. 💸 Continue or Expand Discount Strategies:
+
+Retain the average 47% discount strategy for high-performing categories, especially for products with lower visibility to boost traction.
+
+Promote products with 50%+ discounts more aggressively to increase conversions.
+
+
+
+3. 🛠 Optimize Low-Review Products:
+
+Investigate and enhance products with <1,000 reviews—optimize listings, encourage reviews via post-purchase emails, and provide time-limited offers.
+
+
+
+4. 🌟 Highlight Top-Rated Products:
+
+Use high ratings in advertising copy and product badges to improve click-through rates and conversions.
+
+
+
+5. 🔄 Introduce Tiered Pricing Models:
+
+Since most products fall under $100, consider bundling or upselling to increase average cart value.
+
+
+
+6. 🔍 Monitor Rating Trends:
+
+Closely track review patterns for 3-star and below-rated products to identify and resolve product or customer service issues early.
+
+
+
+7. 🎯 Personalize Product Promotion:
+
+Use customer segmentation and targeting to recommend top-performing products based on their preferences and review behaviors.
