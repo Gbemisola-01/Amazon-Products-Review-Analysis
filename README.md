@@ -113,10 +113,31 @@ High-performing products are in Electronics and Beauty, combining strong ratings
 
 ## 💡 Recommendations
 •	1. Targeted Promotions: Focus on categories with high review volume and strong ratings like Electronics and Beauty.
+
+
+
 •	2. Improve Low-Review Products: Bundle or feature the 1,100+ products with <1,000 reviews.
+
+
+
 •	3. Optimize Discounts: Avoid excessive discounts on low-rated products. Improve quality/listing instead.
+
+
+
 •	4. Category-Specific Strategy: Fashion – deals; Books – value bundles; Electronics – support-focused marketing.
+
+
+
 •	5. Product Development Focus: Replicate features of top-rated, high-review products for new launches.
+
+
+
 •	6. Monitor Price Sensitivity: Target the ₹200–₹500 range for optimal mass appeal.
+
+
+
 •	7. Boost Customer Engagement: Use follow-ups or rewards to encourage reviews on underexposed products.
+
+
+
 •	8. Flag Underperformers: Identify and review low-rated, high-discounted products for potential removal or rebranding.
